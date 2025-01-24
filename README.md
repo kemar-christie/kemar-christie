@@ -3,7 +3,7 @@
 ![FRONT OF CARD](https://github.com/user-attachments/assets/c8c9fe62-cad5-40e7-90c6-2bb5ed0a2338)
 
 
-Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer passionate about combining engineering principles and cloud infrastructure to build innovative AI solutions.
+Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer passionate about developing data-driven solutions that bridge the gap between technical innovation and real-world applications. With a keen interest in exploring cutting-edge technologies and a strong commitment to continuous learning.
 
 ---
 
