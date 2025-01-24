@@ -39,9 +39,11 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 
 ### Connect with Me
 Feel free to reach out and collaborate:
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)  👤
-- [Twitter](https://twitter.com/your-handle)  🕊️
-- [GitHub](https://github.com/your-github)  💻
+- [LinkedIn](https://www.linkedin.com/in/kemar-christie/)  👤
+- [Twitter](https://x.com/kxng_christie)  🕊️
+- [Instagram](https://www.instagram.com/kxng.christie/)  💬
+- [Facebook](https://www.facebook.com/kemar.christie.739?mibextid=LQQJ4d)  🔵
+- [Discord](https://discordapp.com/users/509862919484342283)  🟣
 
 ---
 
