@@ -17,7 +17,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 
 ### Current Focus
 - 🚀 Building expertise in **Machine Learning** and **Cloud Infrastructure**.
-- 🔧 Enhancing skills in **Python**, **SQL**, **Java**, **TensorFlow**, **PyTorch**, **GCP**, **AWS**, **AZURE AI**, **DOCKER** & **GIT**.
+- 🔧 Enhancing skills in **Python**, **SQL**, **Java**, **TensorFlow**, **PyTorch**, **Google Cloud Platform (GCP)**, **AWS**, **Azure AI**, **Docker** & **Git**.
 - 🎨 Working on real-world projects to solve problems using **AI-powered solutions**.
 
 ---
@@ -25,7 +25,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 ### Skills
 - **Programming Languages:** Python, SQL, java
 - **AI/ML Tools:** TensorFlow, PyTorch
-- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **Cloud Platforms:** AWS, Azure, Google Cloud Platform (GCP)
 - **Others:** Git, Docker
 
 ---
