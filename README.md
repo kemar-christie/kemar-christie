@@ -46,7 +46,8 @@ Feel free to reach out and collaborate:
 ---
 
 ### 🎭 Projects & Highlights
-- **[AI-Enabled-GPA-System](https://github.com/project-link)**: A Python & Prolog AI Enabled GPA System.
-- **[Event-Sceduling-System](https://github.com/project-link)**: SQL & JAVA enabled Event Scheduling System.
+- **[AI-Enabled-GPA-System](https://github.com/kemar-christie/AI-Enabled-GPA-System)**: A Python & Prolog AI Enabled GPA System. 
+- **[An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA](https://github.com/kemar-christie/An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA)**: A C++ & IOT Enable Research Study and Partial Implementation.
+
 
 Thank you for stopping by! Let's connect and build something awesome together. 🚀
