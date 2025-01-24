@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome!
 
-![FRONT OF CARD](https://github.com/user-attachments/assets/c8c9fe62-cad5-40e7-90c6-2bb5ed0a2338)
+![FRONT OF CARD](https://github.com/user-attachments/assets/eccee584-edd9-437c-a769-2b78e92c302f)
 
 
 Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer passionate about developing data-driven solutions that bridge the gap between technical innovation and real-world applications. With a keen interest in exploring cutting-edge technologies and a strong commitment to continuous learning.
