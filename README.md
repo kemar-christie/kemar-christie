@@ -33,7 +33,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 ### Fun Facts About Me
 - 🔊 I love listening to tech podcasts for daily inspiration, technological advancements and trends.
 - 🚨 My dream is to bridge the gap between **AI innovation** and **accessible tech solutions**.
-- ☀️ You can call me "Kem"!
+- ☀️ You can call me "Kemar"!
 
 ---
 
