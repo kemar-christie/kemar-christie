@@ -13,8 +13,8 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 - ✏️ I Enjoy researching new technologies, listening to tech podcasts, and diving into the world of AI development.
 - 🤝  I am Passionate about mentoring and guiding youth in tech.
 
----
 
+---
 
 ### Skills
 - 👨🏽‍💻 **Programming Languages:** Python, Java, SQL
@@ -23,24 +23,24 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 - ☁️ **Cloud Computing:** AWS, Azure AI, Google Cloud Platform (GCP)
 - 🛠️ **Tools:** Open AI, Github, Git, XAMPP
 
----
 
+---
 
 ### Current Focus
 - 🚀 Building expertise in **Machine Learning** and **Cloud Infrastructure**.
 - 🔧 Enhancing skills in **Specified Programming Languages**, **Databases**, **Frameworks/Libraries**, **Cloud Computing** & **Tools**
 - 🎨 Working on real-world projects to solve problems using **AI-powered solutions**.
 
----
 
+---
 
 ### Fun Facts About Me
 - 🔊 I love listening to tech podcasts for daily inspiration, technological advancements and trends.
 - 🚨 My dream is to bridge the gap between **AI innovation** and **accessible tech solutions**.
 - ☀️ You can call me "Kemar"!
 
----
 
+---
 
 ### Connect with Me
 Feel free to reach out and collaborate:
