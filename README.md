@@ -15,6 +15,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 
 ---
 
+
 ### Skills
 - 👨🏽‍💻 **Programming Languages:** Python, Java, SQL
 - ⚙️ **Databases:** MySQL, MonogDB
@@ -24,12 +25,14 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 
 ---
 
+
 ### Current Focus
 - 🚀 Building expertise in **Machine Learning** and **Cloud Infrastructure**.
 - 🔧 Enhancing skills in **Specified Programming Languages**, **Databases**, **Frameworks/Libraries**, **Cloud Computing** & **Tools**
 - 🎨 Working on real-world projects to solve problems using **AI-powered solutions**.
 
 ---
+
 
 ### Fun Facts About Me
 - 🔊 I love listening to tech podcasts for daily inspiration, technological advancements and trends.
@@ -38,6 +41,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring Machine Learning Engineer
 
 ---
 
+
 ### Connect with Me
 Feel free to reach out and collaborate:
 - [LinkedIn](https://www.linkedin.com/in/kemar-christie/)  👤
@@ -45,6 +49,7 @@ Feel free to reach out and collaborate:
 - [Instagram](https://www.instagram.com/kxng.christie/)  💬
 - [Facebook](https://www.facebook.com/kemar.christie.739?mibextid=LQQJ4d)  🔵
 - [Discord](https://discordapp.com/users/509862919484342283)  🟣
+
 
 ---
 
