@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome!
 
-![FRONT OF CARD](https://github.com/user-attachments/assets/8c014086-f665-41e3-aaf1-dfbcb97e9905)
+![GITHUB MAIN   RESIZED](https://github.com/user-attachments/assets/0f38f345-4d79-4ec9-b2a8-a558d24a4538)
 
 Hello! My name is **Kemar Christie**. I am an aspiring **Cloud Solution Architect** passionate about designing scalable and efficient cloud infrastructures that bridge the gap between technical innovation and real-world applications. With a keen interest in exploring **cutting-edge AI technologies, cloud solutions, and a strong commitment to continuous learning**, I strive to build **future-ready** cloud architectures that empower businesses and individuals alike.
 
