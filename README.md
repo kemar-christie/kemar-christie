@@ -17,7 +17,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring **Cloud Solution Architec
 ### Skills
 - 👨🏽‍💻 **Programming Languages:** Python, SQL
 - 📜 **Scripting Languages:** Bash, PowerShell
-- ⚙️ **Databases:** PostgreSQL, MySQL, MonogDB
+- ⚙️ **Databases:** PostgreSQL, MySQL, MongoDB, Neon, Supabase
 - ☁️ **Cloud Computing:** AWS, Azure AI, Google Cloud Platform (GCP)
 - 🛠️ **Tools:** ChatGPT, Microsoft Copilot, Github, Git, YAML, JSON, Draw.io
 
