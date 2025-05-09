@@ -7,7 +7,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring **Cloud Solution Architec
 ---
 
 ### About Me
-- 🌐 Based in **Kingston, Jamaica**, I am currently pursuing a **BSc in Computer Science** at the University of Technology, Jamaica.
+- 🌐 Based in **Kingston, Jamaica**, I am currently pursuing a **BSc in Computing** at the University of Technology, Jamaica.
 - 💡 Passionate about **exploring AI-driven cloud technologies** and expanding my knowledge in **Cloud Solutions**.
 - ✏️ I enjoy **researching emerging technologies, listening to tech podcasts, and diving into AI development**.
 - 🤝 Committed to **mentoring and guiding youth in tech**.
@@ -48,7 +48,9 @@ Feel free to reach out and collaborate:
 ---
 
 ### 🎭 Projects & Highlights
-- **[An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA](https://github.com/kemar-christie/An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA)**: A research project analyzing operational inefficiencies in Jamaica's NSWMA, proposing IoT-driven solutions to optimize garbage collection and improve waste management operations.
+- **[An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA](https://github.com/kemar-christie/An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA)**: A research project analysing operational inefficiencies in Jamaica's NSWMA, proposing IoT-driven solutions to optimise garbage collection and improve waste management operations.
+
+- **[ABPL-A-Booking-Programming-Language](https://github.com/kemar-christie/ABPL-A-Booking-Programming-Language)**: A Project based on developing a natural language-inspired programming language (ABPL) to simulate real-time bookings, using PLY for language parsing and the Gemini API for dynamic event and transportation data integration.
 
 
 Thank you for stopping by! Let's connect and build something awesome together. 🚀
