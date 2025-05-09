@@ -7,7 +7,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring **Cloud Solution Architec
 ---
 
 ### About Me
-- 🌐 Based in **Kingston, Jamaica**, I am currently pursuing a **BSc in Computing** at the University of Technology, Jamaica.
+- 🌐 Based in **Kingston, Jamaica**, I am currently pursuing a **BSc in Computing** degree at the University of Technology, Jamaica.
 - 💡 Passionate about **exploring AI-driven cloud technologies** and expanding my knowledge in **Cloud Solutions**.
 - ✏️ I enjoy **researching emerging technologies, listening to tech podcasts, and diving into AI development**.
 - 🤝 Committed to **mentoring and guiding youth in tech**.
